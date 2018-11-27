@@ -1,0 +1,2 @@
+Before building the E-Wallet :
+1.	nuget Package : DotnetopenAuth , NewtonSoft.Json 
